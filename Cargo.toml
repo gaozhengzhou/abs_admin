@@ -8,8 +8,8 @@ edition = "2021"
 [dependencies]
 rbs = { version = "4.4" }
 rbatis = { version = "4.4", features = [] }
-rbdc-sqlite = { version = "4.4" }
-#rbdc-mysql = { version = "4.4" }
+#rbdc-sqlite = { version = "4.4" }
+rbdc-mysql = { version = "4.4" }
 #rbdc-pg = { version = "4.4" }
 #rbdc-mssql = { version = "4.4" }
 
